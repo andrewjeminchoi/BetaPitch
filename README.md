@@ -1,4 +1,4 @@
-# BetaPitch
+# AlphaPitch
 Assembly Project - Lego Baseball Pitching machine
 Contributors: Andrew Choi, Peter Han
 
